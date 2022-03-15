@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Ifood</title>
+</head>
+
+<body>
+    <header id="header">
+        <h1>FoodBox</h1>
+        <h2>Monte seu box e receba em 15 minutos</h2>
+    </header>
+
+    <section id="principal">
+        <h3>Primeiro o seu prato</h3>
+
+        <section id="lasanha" class="pratos" onclick="selecionarFrango()">
+            <img class="img" src="img/lasanha-de-frango-3.jpeg" alt="Lasanha">
+            <h4>Lasanha de frango</h4>
+            <p>Frango, queijo, presunto. <br>
+                Acompanha refrigerante.</p>
+            <p><b>R$ 15.99</b></p>
+        </section>
+
+        <section id="bolo" class="pratos" onclick="selecionarBolo()">
+            <img class="img" src="img/bolo_carne_maca.jpg" alt="Lasanha">
+            <h4>Bolo de carne</h4>
+            <p>Carne bovina <br>
+                Acompanha refrigerante.</p>
+
+            <p><b>R$ 15.99</b></p>
+
+        </section>
+    </section>
+
+
+    <section id="bebidas">
+        <h3>Agora escolha uma bebida</h3>
+
+        <section id="coca" class="pratos" onclick="selecionarCoca()">
+            <img class="img" src="img/Refrigerante-Coca-Cola-–-Lata-350ml.jpg" alt="coca cola">
+            <h4>Coca-Cola</h4>
+            <p>350ml</p>
+            <p><b>R$ 2.99</b></p>
+        </section>
+
+        <section id="suco" class="pratos" onclick="selecionarSuco()">
+            <img class="img" src="img/suco de laranja.jpg" alt="suco de laranja">
+            <h4>Suco de laranja</h4>
+            <p>500ml</p>
+            <p><b>R$ 3.99</b></p>
+        </section>
+
+    </section>
+
+    <section id="sobremesa">
+        <h3>Agora escolha uma bebida</h3>
+
+        <section id="doce" class="pratos" onclick="selecionarDoce()">
+            <img class="img" src="img/amendoin.jpg" alt="coca cola">
+            <h4>Doce de amendoin</h4>
+            <p>200g</p>
+            <p><b>R$ 1.99</b></p>
+        </section>
+
+        <section id="choc" class="pratos" onclick="selecionarChoc()">
+            <img class="img" src="img/trunfa.jpg" alt="suco de laranja">
+            <h4>Chocolate</h4>
+            <p>40g</p>
+            <p><b>R$ 1.99</b></p>
+        </section>
+
+    </section>
+
+    <button id="finalizar" onclick="finalizarPedido()">Finalizar pedido</button>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

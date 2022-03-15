@@ -40,7 +40,7 @@ Esse projeto foi elaborado durante o bootcamp de FullStack Java da [SoulCode](ht
 
  ![foto1](https://github.com/giovaner10/App_Ifood_JavaScript/blob/main/image/Captura%20de%20tela%202022-03-15%20171933.png)   
  ![foto](https://github.com/giovaner10/App_Ifood_JavaScript/blob/main/image/Captura%20de%20tela%202022-03-15%20172037.png) 
-  ![foto](https://github.com/giovaner10/App_Ifood_JavaScript/blob/main/image/Captura%20de%20tela%202022-03-15%20172456.png) 
+  ![foto](https://github.com/giovaner10/App_Ifood_JavaScript/blob/main/image/Captura%20de%20tela%202022-03-15%201724568.png) 
  ![foto](https://github.com/giovaner10/App_Ifood_JavaScript/blob/main/image/Captura%20de%20tela%202022-03-15%20172641.png) 
 
 
